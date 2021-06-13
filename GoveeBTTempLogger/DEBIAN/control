@@ -2,7 +2,7 @@ Package: GoveeBTTempLogger
 Version: 2.20210520-1
 Section: custom
 Priority: optional
-Architecture: armhf
+Architecture: amd64
 Essential: no
 Installed-Size: 95
 Maintainer: wcbonner@users.noreply.github.com
